@@ -133,4 +133,4 @@
 
 🐙 GitHub: https://github.com/rulesbrokerVicky
 
-📄 Resume: https://drive.google.com/file/d/1cJYHOnsv-rEhWCuHnKpPpvaRYd-rvxl2/view
+📄 Resume: [https://drive.google.com/file/d/1cJYHOnsv-rEhWCuHnKpPpvaRYd-rvxl2/view](https://drive.google.com/file/d/1uq6WqReiC_GL1mDjcwIznDRxohRF8oBo/view?usp=drive_link)
