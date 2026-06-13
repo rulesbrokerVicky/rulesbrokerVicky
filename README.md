@@ -127,7 +127,7 @@
 
 ### 📫 Reach Me
 
-📧 Email: [vickysinghrajput420@gmail.com](mailto:vickysinghrajput420@gmail.com)
+📧 Email: [vkumar.jfs@gmail.com](mailto:vkumar.jfs@gmail.com)
 
 💼 LinkedIn: [www.linkedin.com/in/vicky-k-6974ab1b7](http://www.linkedin.com/in/vicky-k-6974ab1b7)
 
