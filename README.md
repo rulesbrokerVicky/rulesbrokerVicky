@@ -35,11 +35,11 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:vickysinghrajput420@gmail.com">
+<a href="mailto:vkumar.jfs@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1cJYHOnsv-rEhWCuHnKpPpvaRYd-rvxl2/view" target="_blank">
+<a href="https://drive.google.com/file/d/1uq6WqReiC_GL1mDjcwIznDRxohRF8oBo/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
